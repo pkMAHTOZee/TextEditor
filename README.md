@@ -1,4 +1,4 @@
-Text Editor
+# Text Editor
 
 A simple text editor project using tech stack Java Swing. The provided code appears to be a Java program for a simple text editor. Here's a description of the TextEditor project:
 
